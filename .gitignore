@@ -1,0 +1,6 @@
+/data/
+/venv/
+data.zip
+/.idea/
+train_word_dict
+*.doc
