@@ -2,7 +2,7 @@
 
 ## 朴素贝叶斯分类器实现垃圾邮件分类
 
-朴素贝叶斯分类器原理：[朴素贝叶斯分类器 - 维基百科，自由的百科全书]([https://zh.wikipedia.org/wiki/%E6%9C%B4%E7%B4%A0%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%88%86%E7%B1%BB%E5%99%A8](https://zh.wikipedia.org/wiki/朴素贝叶斯分类器))
+朴素贝叶斯分类器原理：[朴素贝叶斯分类器 - 维基百科，自由的百科全书](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)
 
 朴素贝叶斯分类器做垃圾分类：[贝叶斯推断及其互联网应用（二）：过滤垃圾邮件 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2011/08/bayesian_inference_part_two.html)
 
