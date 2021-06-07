@@ -6,7 +6,7 @@
 
 朴素贝叶斯分类器做垃圾分类：[贝叶斯推断及其互联网应用（二）：过滤垃圾邮件 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2011/08/bayesian_inference_part_two.html)
 
-[数据集](https://drive.google.com/open?id=15Yi14PBw9P1pb045_aIRa-C3cdP0PKT_)
+[数据集](https://drive.google.com/open?id=15Yi14PBw9P1pb045_aIRa-C3cdP0PKT_) Google Drive, 请先确认网络环境
 
 将数据集解压到仓库路径下即可
 
