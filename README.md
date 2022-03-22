@@ -8,11 +8,22 @@
 
 [数据集](https://drive.google.com/open?id=15Yi14PBw9P1pb045_aIRa-C3cdP0PKT_) Google Drive, 请先确认网络环境
 
-将数据集解压到仓库路径下即可
+将数据集解压到仓库路径下即可 
+项目结构：
 
+![image](https://user-images.githubusercontent.com/48375763/159438565-3c7741a1-6bb8-404f-abd1-b764813d21c9.png)
+
+> train_word_dict 文件仅用于保存实验结果，不必预先建立
 运行：`python new.py`
 
+## 环境
+
+* python 3.7
+* package ： jieba、pandas、codecs
+
 ## 实验数据及结果分析：
+
+![image](https://user-images.githubusercontent.com/48375763/159437202-080e5cb7-84fc-4742-b885-e0f3d58c936e.png)
 
 部分训练字典如下 
 
