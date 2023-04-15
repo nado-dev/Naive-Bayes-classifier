@@ -117,7 +117,7 @@ def predict_dataset(_train_word_dict, _spam_count, _ham_count, data):
 
         word_occurs_counts_spam = _train_word_dict[word][1]
         # 出现过这个词的信件数 / 普通邮件数
-        spam_probability += math.log((float(word_occurs_counts_spam) + 1) / _spam_count + 2)
+        spam_probability += math.log((float(word_occurs_counts_spam) + 1) / (_spam_count + 2))
 
     if spam_probability > ham_probability:
         is_spam = 1
