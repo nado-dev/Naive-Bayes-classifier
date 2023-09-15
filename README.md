@@ -1,6 +1,6 @@
 
 
-## 朴素贝叶斯分类器实现垃圾邮件分类
+## Naive Bayesian algorithm for spam classification 朴素贝叶斯分类器实现垃圾邮件分类
 
 朴素贝叶斯分类器原理：[朴素贝叶斯分类器 - 维基百科，自由的百科全书](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)
 
